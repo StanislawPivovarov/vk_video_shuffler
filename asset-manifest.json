@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vk_video_shuffler/static/css/main.e6c13ad2.css",
-    "main.js": "/vk_video_shuffler/static/js/main.4227cfd8.js",
+    "main.js": "/vk_video_shuffler/static/js/main.d7a12dec.js",
     "index.html": "/vk_video_shuffler/index.html",
     "main.e6c13ad2.css.map": "/vk_video_shuffler/static/css/main.e6c13ad2.css.map",
-    "main.4227cfd8.js.map": "/vk_video_shuffler/static/js/main.4227cfd8.js.map"
+    "main.d7a12dec.js.map": "/vk_video_shuffler/static/js/main.d7a12dec.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4227cfd8.js"
+    "static/js/main.d7a12dec.js"
   ]
 }
